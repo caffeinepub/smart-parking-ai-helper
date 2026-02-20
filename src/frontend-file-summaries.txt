@@ -1,0 +1,8 @@
+{
+  "frontend/src/App.tsx": "Main application component with theme provider, query client setup, and toggle between user chat interface and admin dashboard views with updated branding for \"Vehicle QR Connect AI\".",
+  "frontend/src/components/ChatInterface.tsx": "Interactive chat interface component simulating AI parking assistant with vehicle number input, message exchange in Hindi, action buttons for scanning plates, sending location, emergency alerts, and voice messages with updated messaging for vehicle owner contact.",
+  "frontend/src/components/AdminDashboard.tsx": "Admin dashboard component displaying conversation statistics, tabbed table view of all conversations with filtering by status (active, emergency, resolved), vehicle type badges, and enhanced privacy notice with encryption indicators.",
+  "frontend/src/hooks/useQueries.ts": "React Query hooks prepared for future backend integration with placeholder functions for conversations, message sending, and conversation creation.",
+  "frontend/src/index.css": "Global styles with OKLCH color system featuring blue theme (240° hue) for both light and dark modes with enhanced contrast and modern design tokens suitable for a vehicle communication platform.",
+  "frontend/tailwind.config.js": "Tailwind configuration with custom fonts (Inter, JetBrains Mono), extended color palette, border radius, shadows, and animation utilities."
+}

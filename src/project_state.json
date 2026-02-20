@@ -1,0 +1,146 @@
+{
+  "schemaVersion": "1.0.0",
+  "projectStateVersion": 5,
+  "summary": "QR/Barcode-based AI chat system for vehicle owner contact. Users scan QR stickers on parked vehicles to open masked chat interface. System supports cars/bikes with encrypted privacy layer, Hindi AI responses, and secure vehicle-owner mapping. Owner registration via OTP required, with monetization through QR sticker sales (₹299-₹499).",
+  "architectural_notes": [
+    "QR code generation and scanning system",
+    "Vehicle number plate OCR/scanning capability",
+    "Phone number masking/privacy layer for all communications",
+    "Multi-language support (Hindi primary)",
+    "Admin dashboard for monitoring and management",
+    "QR and barcode scanning capabilities for vehicle identification",
+    "Weather-proof physical sticker design with unique vehicle IDs",
+    "Secure database for encrypted vehicle-owner data mapping",
+    "End-to-end encryption for all chat communications",
+    "OTP-based owner registration and verification system"
+  ],
+  "known_issues": [],
+  "isFixRequest": false,
+  "existing_features": [],
+  "new_feature_requests": [
+    {
+      "id": "AR-1",
+      "summary": "QR code scanning to instantly open AI WhatsApp chat interface",
+      "reqIds": [],
+      "status": "pending"
+    },
+    {
+      "id": "AR-2",
+      "summary": "Vehicle number input via text entry or number plate scan",
+      "reqIds": [],
+      "status": "pending"
+    },
+    {
+      "id": "AR-3",
+      "summary": "AI responses in Hindi with polite tone requesting vehicle removal",
+      "reqIds": [],
+      "status": "pending"
+    },
+    {
+      "id": "AR-4",
+      "summary": "Privacy-preserving masked communication (no phone number visibility)",
+      "reqIds": [],
+      "status": "pending"
+    },
+    {
+      "id": "AR-5",
+      "summary": "Emergency button feature",
+      "reqIds": [],
+      "status": "pending"
+    },
+    {
+      "id": "AR-6",
+      "summary": "Send location option",
+      "reqIds": [],
+      "status": "pending"
+    },
+    {
+      "id": "AR-7",
+      "summary": "Voice message support",
+      "reqIds": [],
+      "status": "pending"
+    },
+    {
+      "id": "AR-8",
+      "summary": "Admin dashboard with masked number visibility",
+      "reqIds": [],
+      "status": "pending"
+    },
+    {
+      "id": "AR-9",
+      "summary": "Barcode scanning support alongside QR codes",
+      "reqIds": [],
+      "status": "pending"
+    },
+    {
+      "id": "AR-10",
+      "summary": "Weather-proof QR/barcode sticker design for vehicles",
+      "reqIds": [],
+      "status": "pending"
+    },
+    {
+      "id": "AR-11",
+      "summary": "Unique vehicle ID system mapped to QR/barcode",
+      "reqIds": [],
+      "status": "pending"
+    },
+    {
+      "id": "AR-12",
+      "summary": "Vehicle type support (Car/Bike) with categorization",
+      "reqIds": [],
+      "status": "pending"
+    },
+    {
+      "id": "AR-13",
+      "summary": "Custom welcome message in Hindi with problem/vehicle number confirmation flow",
+      "reqIds": [],
+      "status": "pending"
+    },
+    {
+      "id": "AR-14",
+      "summary": "Secure database for vehicle data (number, encrypted owner mobile, optional name/location)",
+      "reqIds": [],
+      "status": "pending"
+    },
+    {
+      "id": "AR-15",
+      "summary": "End-to-end encryption for all communications",
+      "reqIds": [],
+      "status": "pending"
+    },
+    {
+      "id": "AR-16",
+      "summary": "HELP and URGENT keyword command system for escalation",
+      "reqIds": [],
+      "status": "pending"
+    },
+    {
+      "id": "AR-17",
+      "summary": "Owner registration system with OTP verification",
+      "reqIds": [],
+      "status": "pending"
+    },
+    {
+      "id": "AR-18",
+      "summary": "Vehicle-to-QR mapping in admin dashboard",
+      "reqIds": [],
+      "status": "pending"
+    },
+    {
+      "id": "AR-19",
+      "summary": "Monetization: QR sticker pricing (₹299-₹499) with lifetime registration",
+      "reqIds": [],
+      "status": "pending"
+    },
+    {
+      "id": "AR-20",
+      "summary": "Optional premium subscription model",
+      "reqIds": [],
+      "status": "pending"
+    }
+  ],
+  "gameProjectType": "none",
+  "projectName": "Smart Parking AI Helper",
+  "clarification_mode": "instant",
+  "clarification_rounds": 0
+}

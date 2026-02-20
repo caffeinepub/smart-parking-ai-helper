@@ -1,0 +1,17 @@
+{
+  "backend/main.mo": "Empty Motoko actor with no functionality implemented yet.",
+  "feature_evidence.json": "Empty feature evidence report with no features documented.",
+  "frontend-file-summaries.txt": "JSON containing summaries of frontend components including App.tsx, ChatInterface, AdminDashboard, hooks, and styling files for a Vehicle QR Connect AI application.",
+  "frontend/index.css": "Tailwind CSS configuration with custom CSS variables for light and dark themes using OKLCH color system with neutral grayscale palette.",
+  "frontend/index.html": "HTML entry point with root div and module script reference to main.tsx, titled 'Smart Parking AI Helper'.",
+  "frontend/src/App.tsx": "Main app component with QueryClient, ThemeProvider, header with branding, toggle between user chat and admin views, and footer with caffeine.ai attribution.",
+  "frontend/src/components/AdminDashboard.tsx": "Admin dashboard displaying conversation statistics cards and a table of conversations with vehicle numbers, status badges, message counts, and timestamps.",
+  "frontend/src/components/ChatInterface.tsx": "Chat interface with Hindi language support, vehicle number input, message exchange simulation, and action buttons for scanning plates, location sharing, emergency alerts, and voice messages.",
+  "frontend/src/hooks/useActor.ts": "React Query hook that creates and manages ICP actor instances based on Internet Identity authentication state, invalidating dependent queries on actor changes.",
+  "frontend/src/hooks/useInternetIdentity.ts": "React context provider and hook for Internet Identity authentication with AuthClient integration, login/logout functionality, and identity state management.",
+  "frontend/src/hooks/useQueries.ts": "Placeholder React Query hooks (useGetConversations, useCreateConversation, useSendMessage) prepared for future backend integration with actor-based mutations.",
+  "frontend/src/index.css": "Tailwind CSS configuration file defining CSS custom properties for light and dark themes, including color variables for UI components (primary, secondary, accent, destructive, sidebar, charts) using OKLCH color space.",
+  "frontend/src/main.tsx": "React application entry point that sets up the root render with QueryClient for data fetching and InternetIdentityProvider for authentication context.",
+  "frontend/tailwind.config.js": "Tailwind configuration defining custom theme extensions including OKLCH-based color system, Inter/JetBrains Mono fonts, custom border radius variables, shadow utilities, and accordion animations with typography and container query plugins.",
+  "project_state.json": "Project state document describing a QR/barcode-based AI chat system for contacting vehicle owners with masked privacy, Hindi AI responses, OTP registration, and 19 pending feature requests including scanning, encryption, admin dashboard, and monetization through sticker sales."
+}

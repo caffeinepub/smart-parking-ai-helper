@@ -1,2 +1,3 @@
-# smart-parking-ai-helper
-Exported from Caffeine project: Smart Parking AI Helper
+## 
+
+To run app build and run docker image: `docker build -t app . docker run -it --network host app`
